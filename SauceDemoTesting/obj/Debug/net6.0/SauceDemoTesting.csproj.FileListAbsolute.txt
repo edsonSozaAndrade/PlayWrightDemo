@@ -290,9 +290,11 @@ D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\bin\Debug\n
 D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\bin\Debug\net6.0\SauceDemoTesting.runtimeconfig.json
 D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\bin\Debug\net6.0\SauceDemoTesting.dll
 D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\bin\Debug\net6.0\SauceDemoTesting.pdb
+D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\bin\Debug\net6.0\Gherkin.dll
 D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\bin\Debug\net6.0\Microsoft.Playwright.dll
+D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\bin\Debug\net6.0\Microsoft.Playwright.NUnit.dll
 D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\bin\Debug\net6.0\Microsoft.Playwright.TestAdapter.dll
 D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
 D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -380,4 +382,3 @@ D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\obj\Debug\n
 D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\obj\Debug\net6.0\SauceDemoTesting.pdb
 D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\obj\Debug\net6.0\SauceDemoTesting.genruntimeconfig.cache
 D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\obj\Debug\net6.0\ref\SauceDemoTesting.dll
-D:\Books\Master\Tareas\Automation\AutomationTesting\SauceDemoTesting\bin\Debug\net6.0\Microsoft.Playwright.NUnit.dll

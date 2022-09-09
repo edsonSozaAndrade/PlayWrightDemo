@@ -8,6 +8,15 @@
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
+      "Gherkin/23.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Gherkin.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Gherkin.dll": {}
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
         "type": "package",
         "compile": {
@@ -1051,6 +1060,22 @@
         "coverlet-icon.png",
         "coverlet.collector.3.1.2.nupkg.sha512",
         "coverlet.collector.nuspec"
+      ]
+    },
+    "Gherkin/23.0.1": {
+      "sha512": "/5xIVOurrQrV7M9JqgxRG9MweeqgpJBtfD5V/2LkITPzxqqlpsxxfxa9TD/TOW64dCfrbda6yuYmVhKRZcUWlg==",
+      "type": "package",
+      "path": "gherkin/23.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "cucumber-mark-green-128.png",
+        "gherkin.23.0.1.nupkg.sha512",
+        "gherkin.nuspec",
+        "lib/net45/Gherkin.dll",
+        "lib/net45/Gherkin.xml",
+        "lib/netstandard2.0/Gherkin.dll",
+        "lib/netstandard2.0/Gherkin.xml"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
@@ -4507,6 +4532,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Gherkin >= 23.0.1",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
       "Microsoft.Playwright.NUnit >= 1.25.0",
       "NUnit >= 3.13.3",
@@ -4554,6 +4580,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Gherkin": {
+            "target": "Package",
+            "version": "[23.0.1, )"
+          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[17.1.0, )"

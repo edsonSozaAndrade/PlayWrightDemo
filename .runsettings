@@ -5,6 +5,7 @@
     <LaunchOptions>
       <Headless>false</Headless>
       <Channel>msedge</Channel>
+      <SlowMo>500</SlowMo>
     </LaunchOptions>
   </Playwright>
 </RunSettings>

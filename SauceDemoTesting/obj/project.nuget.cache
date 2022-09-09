@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "UQ9siE88BiiCHWYvy3WI+CRken/zs13nfTpv9PJrXbUSNDmWar80mFYrNwXr0ALYHeSH3hQ9qhFgJqMHEwUcmA==",
+  "dgSpecHash": "5qiQU4eOEW0MxyaXrDespT31GJSg0DoG5L4e1hM7pRGiKR3TsdwpgK1gEGCz9OjkFm9uTzX9zeZ9XYFxU3lInw==",
   "success": true,
   "projectFilePath": "D:\\Books\\Master\\Tareas\\Automation\\AutomationTesting\\SauceDemoTesting\\SauceDemoTesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edson\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\gherkin\\23.0.1\\gherkin.23.0.1.nupkg.sha512",
     "C:\\Users\\Edson\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Edson\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
     "C:\\Users\\Edson\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

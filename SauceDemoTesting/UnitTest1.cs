@@ -9,20 +9,6 @@ namespace SauceDemoTesting
     [Parallelizable(ParallelScope.Self)]
     public class Tests : PageTest
     {
-        public override BrowserNewContextOptions ContextOptions()
-        {
-            return new BrowserNewContextOptions()
-            {
-                ColorScheme = ColorScheme.Light,
-                ViewportSize = new()
-                {
-                    Width = 1920,
-                    Height = 1080
-                },
-                BaseURL = "https://github.com",
-            };
-        }
-
         [Test]
         public async Task ShowItemsOnHomePage()
         {
